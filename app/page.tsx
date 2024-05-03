@@ -3,14 +3,14 @@ import Image from "next/image";
 export default function Main() {
   return (
     <div className="cv  font-[500] min-h-screen px-6 py-4 text-left">
-          <div className="font-bold mb-2 text-3xl text-center">PIERRE DORGE</div>
+          <div className="font-bold mb-2 text-3xl text-center">Meirul Krosh</div>
           <div className="details flex flex-col mb-4">
           <div className="flex justify-between mb-2">
-              <span>(+41) 78 235 16 00 / (+33) 06 07 63 99 87 </span>
+              <span>(+41) 18 935 16 99 / (+33) 12 45 45 59 47 </span>
               <span>Kaferhölzstrasse 54</span>
           </div>
           <div className="flex justify-between mb-2">
-              <span>pdorge@student.ethz.com, pierre.dorge@lleedpartners.com </span>
+              <span>marahul@student.main.com, mierat.gorde@ironlpartners.com </span>
               <span>Zürich, Switzerland</span>
           </div>
           </div>
